@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-08-20 19:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dahnielson_rellink.php:231
+msgid "Up"
+msgstr ""
+
+#: dahnielson_rellink.php:254
+msgid "First post"
+msgstr ""
+
+#: dahnielson_rellink.php:262
+msgid "Last post"
+msgstr ""
+
+#: dahnielson_rellink.php:272
+msgid "Previous posts"
+msgstr ""
+
+#: dahnielson_rellink.php:280
+msgid "Next posts"
+msgstr ""
+
+#: dahnielson_rellink.php:288
+msgid "First posts"
+msgstr ""
+
+#: dahnielson_rellink.php:296
+msgid "Last posts"
+msgstr ""
